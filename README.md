@@ -1,2 +1,9 @@
 # Pythondatavisualize
 파이썬데이터 시각화 pandas, seabron, folium
+
+## 4차산업특강
+- pandas,folium,seaborn 기초
+- 간단한 시각화 및 folium 활용 대피소 좌표
+
+## 포르투갈어 텍스트마이닝(포어텍스트마이닝)
+- 5차시_ 기초 크롤링 및 링크와 제목 함께 가져오기 -> 수업 코드 오타 및 에러 정정 후 수행. export 파일명 변경 및 makes output prettier:) (Apr.1th)
