@@ -11,3 +11,5 @@
 ## BDA(통계)
 - 2차시 복습 _ seaborn 타이타닉이 아닌 kaggle에서 타이타닉 자료가져와서 문법 복습:)
   - groupby, loc/iloc 차이 실습 위주(Apr.2nd)
+- 3차시 복습 _ groupby, iloc 및 반복문 활용하나 groupby 심화 학습
+    -  반복문 활용한 group by 심화 과제 (쿼리 10개 이상)
