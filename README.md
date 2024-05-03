@@ -26,3 +26,4 @@
 - 0411 R문법 (반복문, list,데이터프레임) 관련 복습 업로드 완료 (5주차)
 - 0417 R문법 (데이터 시각화.질적/양적)
 - 0423~25 중간고사 대비 midterm.r
+- 0502 R문법(export, import, split, merge, sebset)
