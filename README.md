@@ -21,6 +21,7 @@
 - 3차시 복습 _ groupby, iloc 및 반복문 활용하나 groupby 심화 학습
     -  반복문 활용한 group by 심화 과제 (쿼리 10개 이상)
 - 6차시 복습 _ 통계 기초 및 시각화 (정규화, 플롯들의 의미)
+- 7차시 복습 _ 수치 기초(공분산, 모집단-표본집단 등), countervalues, histogram&barplot, effectsize
 
 ## 데이터사이언스입문(데사입)
 - R실습
