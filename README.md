@@ -26,6 +26,7 @@
 - 6차시 복습 _ 통계 기초 및 시각화 (정규화, 플롯들의 의미)
 - 7차시 복습 _ 수치 기초(공분산, 모집단-표본집단 등), countervalues, histogram&barplot, effectsize
 - 8차시 복습 _ 통계 기초 코드 짜기 및 wine, house 데이터세트 실습
+- 9차시 복습 및 필수과제 _ name 에 따른 feature 시각화
 
 ## 데이터사이언스입문(데사입)
 - R실습
