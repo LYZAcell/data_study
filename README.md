@@ -36,3 +36,4 @@
 - 0417 R문법 (데이터 시각화.질적/양적)
 - 0423~25 중간고사 대비 midterm.r
 - 0502 R문법(export, import, split, merge, sebset)
+- 0618 _ 기말준비 (~10주차 :GGplot aes)
