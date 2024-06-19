@@ -37,3 +37,4 @@
 - 0423~25 중간고사 대비 midterm.r
 - 0502 R문법(export, import, split, merge, sebset)
 - 0618 _ 기말준비 (~10주차 :GGplot aes)
+- 0619 _ 기말준비 (11주차 개같이 달리는중)
