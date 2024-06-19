@@ -205,6 +205,27 @@ ggplot(data = mpg, mapping = aes(x = displ, y = hwy)) +
     data = filter(mpg, class == "subcompact"),
     se = FALSE)
 
+# 11주차: GGplot ####
+# 시험시작 전 ggplot가져오기
+# library(tidyverse)
+
+# 다이아몬드 cut에 따라 시각화
+ggplot(data = diamonds) +
+  geom_bar(mapping = aes(x = cut))
+
+# ..prop..으로 상대도수 만들기
+ggplot(data = diamonds) +
+  geom_bar(mapping = aes(x = cut, y = ..prop.., group = 1))
+
+
+# 그래프에 색입히기 _ fill = 기준 설정해줄 시 가능
+ggplot(data = diamonds) +
+  geom_bar(mapping = aes(x = cut, fill = cut))
+
+# clarity
+ggplot(data = diamonds) +
+  geom_bar(mapping = aes(x = cut, fill = clarity)) # good!
+  #geom_bar(mapping = aes(x = cut, color = clarity)) # Not good
 
 
 
