@@ -38,3 +38,4 @@
 - 0502 R문법(export, import, split, merge, sebset)
 - 0618 _ 기말준비 (~10주차 :GGplot aes)
 - 0619 _ 기말준비 (11주차 개같이 달리는중)
+- 0629 _ 기말 마무리 및 기출 정리
