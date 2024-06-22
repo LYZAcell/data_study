@@ -29,6 +29,9 @@
 - 7차시 복습 _ 수치 기초(공분산, 모집단-표본집단 등), countervalues, histogram&barplot, effectsize
 - 8차시 복습 _ 통계 기초 코드 짜기 및 wine, house 데이터세트 실습
 - 9차시 복습 및 필수과제 _ name 에 따른 feature 시각화
+- 10주차복습 및 필수과제_ wine세트 및 산점도 시각화 / 싸이파이
+    - 과제: mpg 세트 feature 2개이상씩 분석하기
+- 11주차 복습_ 이항분포 및 시각화
 
 ## 데이터사이언스입문(데사입)
 - R실습
